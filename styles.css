@@ -1,0 +1,111 @@
+.1_2 { 
+	overflow:hidden;
+	border:1px solid rgba(0, 0, 0, 1);
+}.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1938px;
+	height:1378px;
+	position:absolute;
+}.e1_4 { 
+	background-color:rgba(17.00000088661909, 56.000000461936, 76.0000030696392, 1);
+	width:1938px;
+	height:185px;
+	position:absolute;
+	left:0px;
+	top:1193px;
+}.e1_5 { 
+	background-color:rgba(186.0000041127205, 0, 8.000000473111868, 1);
+	width:1938px;
+	height:185px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.e3_15 { 
+	width:377px;
+	height:1378px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/pexels_karolina_grabowska_6920095_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e3_20 { 
+	color:rgba(17.00000088661909, 56.000000461936, 76.0000030696392, 1);
+	width:1397px;
+	height:55px;
+	position:absolute;
+	left:463px;
+	top:241px;
+	font-family:Inter;
+	text-align:center;
+	font-size:96px;
+	letter-spacing:0;
+}.e3_21 { 
+	color:rgba(255, 255, 255, 1);
+	width:361px;
+	height:42px;
+	position:absolute;
+	left:427px;
+	top:83px;
+	font-family:Inter;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}.e3_22 { 
+	color:rgba(255, 255, 255, 1);
+	width:308px;
+	height:42px;
+	position:absolute;
+	left:1024px;
+	top:83px;
+	font-family:Inter;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}.e3_23 { 
+	color:rgba(255, 255, 255, 1);
+	width:387px;
+	height:42px;
+	position:absolute;
+	left:1516px;
+	top:92px;
+	font-family:Inter;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}.e4_2 { 
+	color:rgba(133.00000727176666, 31.000000052154064, 31.000000052154064, 1);
+	width:355px;
+	height:510px;
+	position:absolute;
+	left:1564px;
+	top:495px;
+	font-family:jsMath-cmmi10;
+	text-align:center;
+	font-size:55px;
+	letter-spacing:0;
+}.e5_32 { 
+	color:rgba(133.00000727176666, 31.000000052154064, 31.000000052154064, 1);
+	width:355px;
+	height:633px;
+	position:absolute;
+	left:403px;
+	top:441px;
+	font-family:jsMath-cmmi10;
+	text-align:center;
+	font-size:55px;
+	letter-spacing:0;
+}.e6_5 { 
+	width:748px;
+	height:761px;
+	position:absolute;
+	left:788px;
+	top:408px;
+	border-top-left-radius:54px;
+	border-top-right-radius:54px;
+	border-bottom-left-radius:54px;
+	border-bottom-right-radius:54px;
+	background-image:url(images/pexels_karolina_grabowska_6920098_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
